@@ -1,7 +1,5 @@
-
-## Getting Started
-
-Neste projeto Flutter, você encontrará uma série de classes e widgets que compõem um aplicativo simples de transferência de valores. Vou explicar cada parte do código:
+### Transfer
+Neste projeto Flutter, você encontrará uma série de classes e widgets que compõem um aplicativo simples de transferência de valores. 
 
 ### Imports:
 
